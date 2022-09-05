@@ -29,6 +29,7 @@ console.log(user);
 * String
 * Boolen
 * null  
+
 Выведие в консоль тип каждой переменной.
 
 ```Javascript
