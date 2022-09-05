@@ -42,12 +42,14 @@ console.log(typeof(n),typeof(s),typeof(b),typeof(nl));
 Обявите переменную содердающую ваш возраст. Например: 42.  
 Выведит в консоль фразу "Мой возраст - 42 года" используя обратные кавычки.  
 
+<details>
+<summary>Решение:</summary>
+  
 ```Javascript
 let age = 42;
 console.log(`Мой возраст - ${age} года`);
 ```
-
-
+</details>
 
 
 
